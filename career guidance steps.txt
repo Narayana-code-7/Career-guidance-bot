@@ -7,6 +7,6 @@ carrier guidance project/
 │   ├── index.html
 │   └── result.html
 └── (other files)
-4) open terminal in vs code, then "new terminal" and then type ' python api.py '
+4) open terminal in vs code, then "new terminal" and then type ' python app.py '
 now it shows an ip address linked with webpage
 5) open that link in browser and the output is shown
